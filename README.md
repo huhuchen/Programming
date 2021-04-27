@@ -6,4 +6,4 @@ all knowledge about programming
 - 在Enum Class的基础上为什么还需要Sealed class，Sealed class能解决什么问题？
 
 ## Android
-- 在复杂的列表 View 下如何保证滑动性能
+- 在复杂的列表 View 下如何保证滑动性能 [RecyclerView Prefetch](https://medium.com/google-developers/recyclerview-prefetch-c2f269075710)
