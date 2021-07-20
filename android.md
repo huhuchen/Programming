@@ -1,3 +1,10 @@
+## 日常问题
+- Gitlab如何管理Maven仓库？
+- VirtualXposed如何检测隐私函数调用？
+- SplashActivity如何快速显示背景图，为何xml的layout资源会晚出现？
+
+## React redux
+
 
 ## MVVM
 - [如何构建Android MVVM 应用框架](https://tech.meituan.com/2016/11/11/android-mvvm.html)
