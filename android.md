@@ -1,3 +1,6 @@
+## 遇到的问题
+view.post(runnable)和 new Handler(Looper.getMainLooper()) .post(runnable)，有何区别，为何当view不可见时，post的runnable可能丢失? 
+
 ## 日常问题
 - Gitlab如何管理Maven仓库？
 - VirtualXposed如何检测隐私函数调用？
