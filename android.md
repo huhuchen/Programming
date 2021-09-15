@@ -1,5 +1,5 @@
 ## 遇到的问题
-view.post(runnable)和 new Handler(Looper.getMainLooper()) .post(runnable)，有何区别，为何当view不可见时，post的runnable可能丢失? 
+1. view.post(runnable)和 new Handler(Looper.getMainLooper()) .post(runnable)，有何区别，为何当view不可见时，post的runnable不会执行?  webview复用时，某个不可见view post的runnable不会被执行？
 
 ## 日常问题
 - Gitlab如何管理Maven仓库？
